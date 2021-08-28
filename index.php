@@ -22,8 +22,10 @@
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <div class="container">
-    <!-- <img class="img-profile rounded-circle" src="img/logo.png"> -->
+  
+  <div class="container" >  
+    <img class="img-profile" src="img/logo.png" height= "50px"  width= "50px"  > 
+    <a>........</a>
       <a class="navbar-brand js-scroll-trigger" href="#page-top">Covid19-TMS</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -57,7 +59,7 @@
   </nav>
 
   <header class="bg-primary text-white">
-    <div class="container text-center">
+    <div class="container text-center"> 
       <h1>COVID19 -TMS</h1>
       <p class="lead">COVID19 - Testing Management System</p>
     </div>
