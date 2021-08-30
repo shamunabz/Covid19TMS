@@ -58,10 +58,12 @@
     </div>
   </nav>
 
-  <header class="bg-primary text-white">
+  <header class="">
+    
     <div class="container text-center"> 
-      <h1>COVID19 -TMS</h1>
-      <p class="lead">COVID19 - Testing Management System</p>
+    <h2> Covid-19 Testing Management System</h2>   
+      <img class= "img" src="https://feedbacklabs.org/wp-content/uploads/2020/04/iStock-1211156080-2120x1060.jpg" width= '1200px' height = '650px'></img>
+   
     </div>
   </header>
 
@@ -101,14 +103,10 @@ Reported illnesses have ranged from mild symptoms to severe illness and death</p
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
-          <h2>Prevention</h2>
-  <ul>
-            <li>Wash your Hands often</li>
-            <li>Wear A Face mask</li>
-            <li>Avoid contact with sick people</li>
-            <li>Always cover your cough or sneeze</li>
-          </ul>
+          
+          <h1 style="text-align:center;">Prevention</h1>
         </div>
+        <img class= "img" src="https://yocee.in/wp-content/uploads/2021/05/covid_sop.png" width= '1200px' height = '600px'></img>
       </div>
     </div>
   </section>
